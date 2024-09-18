@@ -1,0 +1,55 @@
+[
+    {
+      "id": "12345",
+      "dateTimeGMT": "2023-09-10T14:30:00",
+      "matchType": "ODI",
+      "status": "India won by 50 runs",
+      "ms": "Result",
+      "t1": "India",
+      "t2": "Australia",
+      "t1s": "300/8",
+      "t2s": "250/10",
+      "t1img": "https://api.cuvora.com/car/partner/india-logo.png",
+      "t2img": "https://api.cuvora.com/car/partner/australia-logo.png"
+    },
+    {
+      "id": "67890",
+      "dateTimeGMT": "2023-09-11T14:30:00",
+      "matchType": "T20",
+      "status": "Pakistan won by 5 wickets",
+      "ms": "Result",
+      "t1": "Pakistan",
+      "t2": "South Africa",
+      "t1s": "180/5",
+      "t2s": "181/8",
+      "t1img": "https://api.cuvora.com/car/partner/pakistan-logo.png",
+      "t2img": "https://api.cuvora.com/car/partner/south-africa-logo.png"
+    },
+    {
+      "id": "11223",
+      "dateTimeGMT": "2023-09-12T14:30:00",
+      "matchType": "Test",
+      "status": "England won by an innings and 100 runs",
+      "ms": "Result",
+      "t1": "England",
+      "t2": "New Zealand",
+      "t1s": "400/9d",
+      "t2s": "150/10",
+      "t1img": "https://api.cuvora.com/car/partner/england-logo.png",
+      "t2img": "https://api.cuvora.com/car/partner/new-zealand-logo.png"
+    },
+    {
+      "id": "44556",
+      "dateTimeGMT": "2023-09-13T14:30:00",
+      "matchType": "ODI",
+      "status": "Sri Lanka won by 20 runs",
+      "ms": "Result",
+      "t1": "Sri Lanka",
+      "t2": "Bangladesh",
+      "t1s": "270/8",
+      "t2s": "250/10",
+      "t1img": "https://api.cuvora.com/car/partner/sri-lanka-logo.png",
+      "t2img": "https://api.cuvora.com/car/partner/bangladesh-logo.png"
+    }
+  ]
+  
